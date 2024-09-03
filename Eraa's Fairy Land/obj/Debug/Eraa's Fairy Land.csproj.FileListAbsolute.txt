@@ -1,0 +1,25 @@
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\bin\Debug\Eraa's Fairy Land.exe.config
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\bin\Debug\Eraa's Fairy Land.exe
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\bin\Debug\Eraa's Fairy Land.pdb
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.csproj.AssemblyReference.cache
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.csproj.SuggestedBindingRedirects.cache
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa_s_Fairy_Land.Fairy_Land.resources
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa_s_Fairy_Land.Properties.Resources.resources
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.csproj.GenerateResource.cache
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.csproj.CoreCompileInputs.cache
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.exe
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.pdb
+D:\AUST\SD LAB\Individual Project\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa_s_Fairy_Land.GameWindows.resources
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\bin\Debug\Eraa's Fairy Land.exe.config
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\bin\Debug\Eraa's Fairy Land.exe
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\bin\Debug\Eraa's Fairy Land.pdb
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.csproj.AssemblyReference.cache
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.csproj.SuggestedBindingRedirects.cache
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa_s_Fairy_Land.EndBox.resources
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa_s_Fairy_Land.Fairy_Land.resources
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa_s_Fairy_Land.GameWindows.resources
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa_s_Fairy_Land.Properties.Resources.resources
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.csproj.GenerateResource.cache
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.csproj.CoreCompileInputs.cache
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.exe
+D:\AUST\SD LAB\Eraa's Fairy Land\Eraa's Fairy Land\obj\Debug\Eraa's Fairy Land.pdb
